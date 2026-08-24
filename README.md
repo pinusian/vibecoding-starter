@@ -1,5 +1,7 @@
 # 바이브코딩 시작 템플릿 (vibecoding-starter)
 
+> 바른 AI 아카데미 바이브코딩 과정 실습용 템플릿
+
 프로그래밍 초보자가 AI(Claude)와 함께 **체계적으로** 앱·웹서비스를 만들기 위한 시작 템플릿입니다.
 
 이 저장소에는 `.claude/skills/vibecoding-guide/` 스킬이 미리 들어 있어서, 별도 설치 없이 이 폴더에서 Claude Code를 열기만 하면 바이브코딩 가이드가 자동으로 작동합니다. (Claude Code CLI·데스크톱·claude.ai/code 클라우드 세션 모두 동일하게 작동)
